@@ -3,4 +3,10 @@ fun main() {
   print(15*4);
   print ("This sententence");
   print ("is missing a space.");
+
+   /* Here lies
+    a multline comment 
+      including its appropriate header and footer 
+        enclosures
+  */
 }
